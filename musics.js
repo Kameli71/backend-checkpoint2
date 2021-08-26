@@ -167,7 +167,7 @@ const musics = [
     "img_card" : 'https://images.unsplash.com/photo-1582106245687-cbb466a9f07f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',
     "quote" : "Je ne bois jamais à outrance, je ne sais même pas où c'est",
     "quoteBy" : "Pierre Desproges",
-    "quotePlay" : "Hey Friday, Same time Same place? -Wine",
+    "quotePlay" : "Here’s to alcohol, the cause of — and solution to — all life’s problems. -Homer Simpson",
     "playlist": {
         "img": "https://images.unsplash.com/photo-1571228738558-c179691aad7f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
         "url": "https://openwhyd.org/u/4d94501d1f78ac091dbc9b4d/playlist/19",
